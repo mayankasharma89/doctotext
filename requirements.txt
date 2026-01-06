@@ -1,3 +1,3 @@
 streamlit
-markitdown
-python-pptx
+# This installs the core PLUS the pdf and pptx handlers
+markitdown[all]
